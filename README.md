@@ -102,5 +102,3 @@ cmake --install ./build/ --prefix ./deploy/
 * [Beginner Series](https://www.youtube.com/watch?v=OhyylLAHQHc&list=PLwW_X4nvqRnxfwo7tXsC3Szu-gc4sv1mp)
 * [Official Channel](https://www.youtube.com/watch?v=jvxWitw00CU&list=PL9GxRn_rQx8M1FkGO0K6kqvHDdwwZ2JB2)
 * **CopperSpice Journal:** [https://journal.copperspice.com/](https://journal.copperspice.com/)
-
-```
